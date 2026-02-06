@@ -1,0 +1,2 @@
+https://www.mintlify.com/hero/hero-image-light.svg
+https://www.mintlify.com/hero/bg-light.svg
