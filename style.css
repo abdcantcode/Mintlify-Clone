@@ -131,7 +131,6 @@ main {
   max-width: var(--container-max-width);
   margin-inline: auto;
   padding-inline: var(--section-padding-x);
-  padding-top: 50rem; /* TO REMOVE */
 }
 
 .eight-logos-cont {
